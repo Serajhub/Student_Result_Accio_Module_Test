@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "first_name": "John",
+        "last_name": "Doe",
+        "email": "john.doe@example.com",
+        "gender": "male",
+        "marks": 75,
+        "passing": true,
+        "class": 10,
+        "image": "path/to/image1.jpg"
+    },
+    // 99 more student objects
+]
